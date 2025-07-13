@@ -17,5 +17,10 @@
 - [POS](documentazione/POS.md)
 - [Analisi e gestione dei rischi](documentazione/Analisi_rischi.md)
 - [Analisi e gestione finanziaria](documentazione/Analisi_finanziaria.md)
-
+- [PDS](documentazione/PDS.md)
+- [WBS](documentazione/WBS.md)
+- [Stima tempistiche](documentazione/stima_tempistiche.md)
+- [Project Network Diagram ](documentazione/Project_network_diagram.md)
+- [GANTT](documentazione/GANTT.md)
+- [Rapporto finale](documentazione/Rapporto_finale.md)
 ---
