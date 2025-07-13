@@ -50,7 +50,7 @@ timeline critica.
 **Relatore:** Project Manager Pasamenti S.R.L.
 
 Riassunto completo del piano di progetto includendo obiettivi, scope e motivazioni per la scelta dell'approccio 
-PMLC iterativo. 
+PMLC adattivo. 
 
 Presentazione della timeline con le quattro milestone principali: Prototipo motore IA (4 settimane), Alpha version 
 (8 settimane), Beta testing (12 settimane) e Release finale (16 settimane). Illustrazione della composizione del 

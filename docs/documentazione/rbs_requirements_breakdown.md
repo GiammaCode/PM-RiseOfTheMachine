@@ -10,7 +10,7 @@
 * Tutti i requisiti funzionali 
 * Tutti i requisiti di Affidabilità e usabilità
 * Requisiti Stack Tecnologico di sviluppo, Infrastrutturale e Deliverable
-* Marketing integration
+* Marketing integration(a parte i collezzionabili)
 
 ### **SHOULD HAVE (Requisiti Importanti):**
 * Requisiti Usabilità avanzata e Accessibilità
@@ -20,6 +20,7 @@
 * Requisiti Qualità codice
 
 ### **COULD HAVE (Requisiti Desiderabili):**
+* Possibilità di sbloccare collezionabili riguardanti il film 
 * Animazioni avanzate
 * Modalità multiplayer
 
