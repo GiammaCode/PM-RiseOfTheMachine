@@ -2,6 +2,8 @@
 
 ![RBS](../img/ReqBS.png)
 
+**[🔍 Visualizza a dimensione completa](../img/ReqBS.png)**
+
 ## Prioritizzazione (MoSCoW)
 
 ### **MUST HAVE (Requisiti Critici):**
