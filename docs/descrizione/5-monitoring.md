@@ -36,7 +36,9 @@ stato corrente nel workflow, e effort effettivamente investito. Questo approccio
 mantenere sistemi separati e garantisce che tutti i problemi siano gestiti con lo stesso livello di visibilità e 
 controllo delle normali attività di sviluppo.
 
-## AGGIUNGERE IMMAGINE
+![Jira](../img/Jira.png)
+
+**[🔍 Visualizza a dimensione completa](../img/Jira.png)**
 
 ## Meeting e Review
 
