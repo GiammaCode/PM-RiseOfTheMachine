@@ -1,3 +1,9 @@
+---
+layout: default
+title: Planning
+nav_order: 3
+---
+
 # Planning
 
 La fase di planning rappresenta il cuore strategico del progetto, dove tutte le decisioni prese durante lo scoping 

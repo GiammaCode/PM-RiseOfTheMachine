@@ -1,3 +1,9 @@
+---
+layout: default
+title: CoS
+nav_order: 7
+---
+
 # CoS - Conditions of Satisfaction
 
 | CONDITION                      | TARGET                                                                                                | STATUS      |

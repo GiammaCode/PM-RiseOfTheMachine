@@ -1,3 +1,9 @@
+---
+layout: default
+title: WBS
+nav_order: 14
+---
+
 # WBS - Work breakdown structure
 
 # WBS 1.0

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Scoping-initiating
+nav_order: 2
+---
+
 # Scoping-Initiating
 
 Si ritiene necessario organizzare dei meeting per individuare e definire lo scope del progetto preso in considerazione. 

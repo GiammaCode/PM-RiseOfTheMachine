@@ -1,3 +1,9 @@
+---
+layout: default
+title: POS
+nav_order: 10
+---
+
 # Project Overview Statement (POS)
 
 ## Problem/Opportunity

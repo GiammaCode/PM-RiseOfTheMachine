@@ -1,3 +1,9 @@
+---
+layout: default
+title: Analisi/gestione finanziaria
+nav_order: 12
+---
+
 # ANALISI FINANZIARIA
 
 ### COSTI DI PROGETTO
