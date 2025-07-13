@@ -20,7 +20,6 @@
 * Requisiti Qualità codice
 
 ### **COULD HAVE (Requisiti Desiderabili):**
-* Audio e effetti sonori
 * Animazioni avanzate
 * Modalità multiplayer
 

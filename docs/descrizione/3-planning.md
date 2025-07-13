@@ -66,12 +66,13 @@ multipiattaforma
 
 ## Approccio PMLC e Metodologia
 
-Basandosi sull'analisi condotta durante lo scoping, il progetto adotta un approccio PMLC iterativo per le seguenti ragioni:
+Basandosi sull'analisi condotta durante lo scoping, il progetto adotta un approccio PMLC adattivo per le seguenti ragioni:
 
 - **Goal chiaramente definito:** L'obiettivo finale (videogioco strategico sincronizzato con il trailer del film) è ben definito
 - **Solution parzialmente definita:** Le specifiche tecniche dell'IA e del bilanciamento gameplay richiedono iterazioni
 - **Timeline fissa:** La data di rilascio non è negoziabile, richiedendo flessibilità nell'implementazione
 - **Stakeholder engagement:** Necessità di feedback continuo dalla casa cinematografica
+- **Imprevisti:** Evenienza non remota di dover modificare la fase di scoping
 
 **Sprint pianificate:**
 - **Sprint 1 (Settimane 1-2):** Setup architettura e Prototipo IA core

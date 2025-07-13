@@ -23,12 +23,12 @@
 
 **R004 - Timeline Serrata Insostenibile**
 - **Descrizione**: Impossibilità di completare tutti i deliverable in 4 mesi
-- **Impatto**: Critico - Mancato allineamento con l'uscita del trailer del film
+- **Impatto**: Medio - Mancato allineamento con l'uscita del trailer del film
 - **Probabilità**: Alta (50%)
 
 **R005 - Scope Creep da Cliente**
 - **Descrizione**: Richieste di funzionalità aggiuntive non previste inizialmente
-- **Impatto**: Alto - Sforamento budget e tempi
+- **Impatto**: Medio - Sforamento budget e tempi
 - **Probabilità**: Alta (60%)
 
 **R006 - Indisponibilità Risorse Chiave**
@@ -64,8 +64,8 @@
 
 | **Risk ID** | **Descrizione**                    | **Probabilità** | **Impatto** |
 |-------------|------------------------------------|-----------------|-------------|
-| **R004**    | Timeline Serrata Insostenibile     | Alta (50%)      | Critico     |
-| **R005**    | Scope Creep da Cliente             | Alta (60%)      | Alto        |
+| **R004**    | Timeline Serrata Insostenibile     | Alta (50%)      | Medio       |
+| **R005**    | Scope Creep da Cliente             | Alta (60%)      | Medio       |
 | **R001**    | Complessità Motore IA Strategica   | Media (40%)     | Alto        |
 | **R007**    | Coordinamento Casa Cinematografica | Media (45%)     | Medio       |
 | **R009**    | Flop Film al Box Office            | Media (30%)     | Alto        |
@@ -77,14 +77,6 @@
 
 ## Mitigazione dei rischi
 
-### RISCHI CRITICI - Azione Immediata
-
-**R004 - Timeline Serrata Insostenibile**
-**Strategia**: MITIGAZIONE AGGRESSIVA
-
-**R005 - Scope Creep da Cliente**
-**Strategia**: PREVENZIONE + CONTROLLO FERREO
-
 ### RISCHI ALTI - Piano di Mitigazione
 
 **R001 - Complessità Motore IA Strategica**
@@ -94,6 +86,12 @@
 **Strategia**: Accordi RIGIDI e chiari + BUFFER
 
 ### RISCHI MEDI - Monitoring & Contingenza
+
+**R004 - Timeline Serrata Insostenibile**
+**Strategia**: Semplificazione feature avanzate(animazioni complesse)
+
+**R005 - Scope Creep da Cliente**
+**Strategia**: PREVENZIONE + CONTROLLO FERREO
 
 **R009 - Flop Film al Box Office**
 **Strategia**: DIVERSIFICAZIONE MARKETING
