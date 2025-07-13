@@ -51,8 +51,7 @@ sincronizzazione con la campagna promozionale del film omonimo e massimizzando l
 
 ### **Sviluppo Motore IA Strategica**
 
-**Obiettivo:** Implementare un sistema di intelligenza artificiale che simuli realisticamente l'evoluzione di una 
-minaccia tecnologica globale
+**Obiettivo:** Implementare un sistema di intelligenza artificiale che simuli realisticamente le diverse strategie di gioco
 
 **Specifiche tecniche:**
 
