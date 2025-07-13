@@ -94,8 +94,10 @@ Il team ha aderito bene alla metodologia adattiva, partecipando attivamente agli
 Gli sviluppatori hanno apprezzato la flessibilità di poter migliorare il codice ad ogni iterazione. 
 Per progetti futuri, raccomandiamo di:
 
-* Aumentare il numero delle persone nel team di sviluppo  
+* Mantenere sempre trasparenza con il committente
+* Aumentare le tempistiche delle fasi iniziali di progetto(scoping, planning)
 * Introdurre sessioni di pair programming  
+* Utilizzare maggiormente i daily standup 
 
 
 
