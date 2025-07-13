@@ -40,16 +40,16 @@ Il progetto offre a Pasamenti S.R.L. molteplici opportunità di crescita:
 * Showcase tecnologico per attrarre nuovi clienti enterprise interessati a soluzioni IA  
 * Esperienza cross-industry per future collaborazioni entertainment/media
 
-## **2\. Project Goal**
+## **Project Goal**
 
 **Goal Statement:** Sviluppare e rilasciare  un videogioco strategico multipiattaforma denominato "Rise of the Machine" 
 che simuli credibilmente uno scenario di dominazione dell'intelligenza artificiale attraverso un motore di IA strategica 
 dinamico, un'interfaccia utente cinematografica immersiva e meccaniche di gameplay bilanciate, garantendo perfetta 
 sincronizzazione con la campagna promozionale del film omonimo e massimizzando l'engagement del target audience gaming.
 
-## **3\. Project Objectives \- Dettaglio Espanso**
+## **Project Objectives \- Dettaglio Espanso**
 
-### **3.1 Sviluppo Motore IA Strategica**
+### **Sviluppo Motore IA Strategica**
 
 **Obiettivo:** Implementare un sistema di intelligenza artificiale che simuli realisticamente l'evoluzione di una 
 minaccia tecnologica globale
@@ -68,7 +68,7 @@ alle strategie del giocatore nelle modalità più complesse.
 * Variazione comportamentale misurabile del 20% tra partite consecutive  
 * Nessun loop infinito o deadlock in situazioni di stallo
 
-### **3.2 Realizzazione Interfaccia Cinematografica**
+### **Realizzazione Interfaccia Cinematografica**
 
 **Obiettivo:** Creare un'esperienza visiva coerente con l'universo narrativo del film
 
@@ -84,7 +84,7 @@ alle strategie del giocatore nelle modalità più complesse.
 * Riferimenti narrativi, visivi e sonori dal film 
 
 
-### **3.3 Architettura Software Professionale**
+### **Architettura Software Professionale**
 
 **Obiettivo:** Implementare una base tecnologica scalabile e manutenibile
 
@@ -102,7 +102,7 @@ alle strategie del giocatore nelle modalità più complesse.
 * **IA Engine:** TypeScript/JavaScript con librerie di machine learning  
 * **Build System:** Webpack con ottimizzazioni specifiche per gaming
 
-### **3.4 Compatibilità Multipiattaforma**
+### **Compatibilità Multipiattaforma**
 
 **Obiettivo:** Garantire esperienza utente consistente su diverse piattaforme
 
@@ -117,7 +117,7 @@ alle strategie del giocatore nelle modalità più complesse.
 * **Mobile:** Controlli touch ottimizzati, gestione batteria, network awareness  
 * **Desktop:** Supporto mouse/keyboard, schermi multipli, risoluzioni 4K
 
-### **3.5 Qualità e Testing**
+### **Qualità e Testing**
 
 **Obiettivo:** Garantire stabilità e affidabilità del prodotto finale
 
@@ -136,9 +136,9 @@ alle strategie del giocatore nelle modalità più complesse.
 * **Device testing:** Testing su almeno 10 dispositivi fisici differenti  
 * **User acceptance testing:** Sessioni con focus group pre-lancio
 
-## **4\. Success Criteria \- Metriche Estese**
+## **Success Criteria \- Metriche Estese**
 
-### **4.1 Business Value Quantificabile**
+### **Business Value Quantificabile**
 
 **Immediate Revenue Impact:**
 
@@ -151,16 +151,15 @@ alle strategie del giocatore nelle modalità più complesse.
 * **Enterprise upselling:** 20% aumento valore contratti esistenti tramite IA showcase  
 * **Brand positioning:** Riconoscimento come IA technology leader nel mercato italiano
 
-### **4.2 Cross-Media Impact**
+### **Cross-Media Impact**
 
 **Sinergie cinematografiche:**
 
-* **Pre-vendite film:** \+20% incremento target gaming audience  
-* **Social engagement:** 100.000+ interazioni social su contenuti cross-promozionali  
-* **Media coverage:** Almeno 5 articoli su testate gaming/tech di rilievo
+* **Pre-vendite film:** \+20% incremento target gaming audience
+* **Engagement Metrics**: Almeno 50.000 download nel primo mese  post-lancio
 
 
-**5\. Deliverable e Milestone**
+**Deliverable e Milestone**
 
 **Settimana 4:** Esposizione del prototipo AI e bozza di UI con le scene scelte del film
 

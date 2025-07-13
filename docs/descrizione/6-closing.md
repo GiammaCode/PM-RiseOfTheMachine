@@ -86,8 +86,7 @@ Che lezione è stata imparata relativamente alla metodologia di gestione del pro
 
 L'approccio adattivo si è rivelato la scelta corretta per questo progetto. Le sprint di 2 settimane 
 hanno permesso di raffinare progressivamente il motore IA e raccogliere feedback continuo dal cliente. 
-Tuttavia, avremmo dovuto allocare più tempo nelle prime iterazioni per la ricerca e prototipazione dell'IA,
-riducendo il rischio di ritardi finali.
+
 
 **Come ha seguito la metodologia il team?**
 
@@ -97,6 +96,6 @@ Per progetti futuri, raccomandiamo di:
 
 * Aumentare il numero delle persone nel team di sviluppo  
 * Introdurre sessioni di pair programming  
-* Implementare daily standup più strutturati per identificare impedimenti 
+
 
 
