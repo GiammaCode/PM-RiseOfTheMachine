@@ -47,7 +47,6 @@ di sviluppo.
 
 ### Business Value Quantificabile
 - **Engagement Metrics**: Almeno 50.000 download nel primo mese post-lancio
-- **User Retention**: Tasso di retention del 40% a 7 giorni dal primo accesso
 - **Cross-Media Impact**: Incremento del 20% delle pre-vendite del film tra il target gaming
 
 ## Assumptions/Risks/Obstacles
