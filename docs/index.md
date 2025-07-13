@@ -19,7 +19,7 @@
 - [Analisi e gestione finanziaria](documentazione/Analisi_finanziaria.md)
 - [PDS](documentazione/PDS.md)
 - [WBS](documentazione/WBS.md)
-- [Stima tempistiche](documentazione/stima_tempistiche.md)
+- [Stima tempistiche](https://docs.google.com/spreadsheets/d/1ODkte4kAQsMDpY6YNHV6RxUDfZo6AREn2gvnuEDXRHM/edit?gid=0#gid=0)
 - [Project Network Diagram ](documentazione/Project_network_diagram.md)
 - [GANTT](https://docs.google.com/spreadsheets/d/1wr1_m1o5Vn4EAptgSNqKpExitD50KUwaOnRc6fMOc8E/edit?usp=sharing)
 - [Rapporto finale](documentazione/Rapporto_finale.md)
