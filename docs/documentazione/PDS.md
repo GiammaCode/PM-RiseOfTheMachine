@@ -1,6 +1,6 @@
 # **Project Definition Statement (PDS)**
 
-## ** Problem/Opportunity Statement**
+## **Problem/Opportunity Statement**
 
 ### **Contesto di Business**
 
