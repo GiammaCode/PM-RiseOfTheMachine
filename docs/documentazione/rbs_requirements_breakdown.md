@@ -1,6 +1,7 @@
 # RBS - Requirements Breakdown Structure
 
 ```mermaid
+
 graph TD
     A[Videogioco Completo] --> B[REQUISITI FUNZIONALI]
     A --> C[REQUISITI NON FUNZIONALI]

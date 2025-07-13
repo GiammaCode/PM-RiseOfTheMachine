@@ -1,7 +1,10 @@
 # docs/_config.yml
 
-title: Forecasting Pioggia
-description: Documentazione ufficiale del progetto
+title: PM - Rise of the Machine
+description: Documentazione ufficiale del progetto di Project Management
 remote_theme: just-the-docs/just-the-docs@v0.6.0
 plugins:
   - jekyll-remote-theme
+
+mermaid:
+  version: "9.1.6"

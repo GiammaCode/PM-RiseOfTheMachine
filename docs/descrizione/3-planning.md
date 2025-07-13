@@ -1,4 +1,4 @@
-# 2. Planning
+# Planning
 
 La fase di planning rappresenta il cuore strategico del progetto, dove tutte le decisioni prese durante lo scoping 
 vengono tradotte in un piano operativo dettagliato. 
@@ -46,7 +46,7 @@ per i componenti critici
 multipiattaforma
 - Stesura del Project Definition Statement (PDS): Espansione del POS con dettagli tecnici e operativi
 
-### 2.1.2 Seconda sessione - Pianificazione Dettagliata
+### Seconda sessione - Pianificazione Dettagliata
 
 **Partecipanti:**
 - Core Team tecnico
@@ -64,7 +64,7 @@ multipiattaforma
 - Resource leveling: Ottimizzazione dell'allocazione delle risorse per evitare over-allocation
 - Definizione milestone e deliverable: Stabilimento dei checkpoint principali allineati con le esigenze del cliente
 
-## 2.2 Approccio PMLC e Metodologia
+## Approccio PMLC e Metodologia
 
 Basandosi sull'analisi condotta durante lo scoping, il progetto adotta un approccio PMLC iterativo per le seguenti ragioni:
 
@@ -89,9 +89,9 @@ Basandosi sull'analisi condotta durante lo scoping, il progetto adotta un approc
 - **Settimana 12:** Secondo prototipo bilanciato e testato su più piattaforme
 - **Settimana 15:** Rilascio versione finale
 
-## 2.3 Contratto e Gestione Finanziaria
+## Contratto e Gestione Finanziaria
 
-### 2.3.1 Tipologia Contrattuale
+### Tipologia Contrattuale
 
 Dopo un'attenta analisi dei rischi e delle incertezze del progetto, si è optato per un contratto misto che combina:
 
@@ -112,11 +112,11 @@ Dopo un'attenta analisi dei rischi e delle incertezze del progetto, si è optato
 - **Per il fornitore:** Protezione sui componenti incerti e coverage dei rischi tecnici
 - **Per il progetto:** Equilibrio tra predictability e adaptability
 
-### 2.3.2 Cash Flow Management
+### Cash Flow Management
 
 **Analisi finanziaria:** https://docs.google.com/document/d/1I9tFamCs2tqYoaUIYwulD2S-fA_GD5Tl6s-oBSTdyb8/edit?tab=t.4f0lnqw6dcb1
 
-## 2.4 Deliverable della Fase di Planning
+## Deliverable della Fase di Planning
 
 I seguenti documenti sono stati prodotti e sono disponibili in allegato:
 
