@@ -23,3 +23,6 @@
 - [Project Network Diagram ](documentazione/Project_network_diagram.md)
 - [GANTT](https://docs.google.com/spreadsheets/d/1wr1_m1o5Vn4EAptgSNqKpExitD50KUwaOnRc6fMOc8E/edit?usp=sharing)
 - [Rapporto finale](documentazione/Rapporto_finale.md)
+
+![flusso progetto](./img/Flusso_progetto.png)
+**[🔍 Visualizza a dimensione completa](./img/Flusso_progetto.png)**
