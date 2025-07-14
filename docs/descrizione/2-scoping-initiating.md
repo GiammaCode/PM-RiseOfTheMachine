@@ -30,8 +30,9 @@ producendo un documento condiviso che stabilisce i criteri di successo del proge
 
 **Partecipanti:**
 - Project Manager (Pasamenti S.R.L.)
-- Product Owner (CEO Pasamenti S.R.L.) 
-- Facilitatore - Membri del team tecnico interno 
+- Product Owner 
+- Facilitatore 
+- Membri del team tecnico interno 
 - Rappresentanti del cliente (casa cinematografica)
 
 **Deliverable:** Conditions of Satisfaction (CoS)
@@ -76,7 +77,7 @@ parzialmente definita sia degli obiettivi specifici che delle soluzioni tecniche
 
 **Partecipanti:**
 - Project Manager (Pasamenti S.R.L.) 
-- Product Owner (Pasamenti S.R.L.) 
+- Product Owner 
 - Facilitatore 
 - Team tecnico interno 
 
