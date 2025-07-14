@@ -95,7 +95,7 @@ Gli sviluppatori hanno apprezzato la flessibilità di poter migliorare il codice
 Per progetti futuri, raccomandiamo di:
 
 * Mantenere sempre trasparenza con il committente
-* Aumentare le tempistiche delle fasi iniziali di progetto(scoping, planning)
+* Negoziare per deadline meno stringenti
 * Introdurre sessioni di pair programming  
 * Utilizzare maggiormente i daily standup 
 
