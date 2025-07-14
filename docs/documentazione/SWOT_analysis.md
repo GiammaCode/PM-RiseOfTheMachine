@@ -8,7 +8,7 @@ nav_order: 9
 
 ## Strengths (punti di forza interni)
 
-**Expertise consolidata in IA e gaming:**
+**Expertise consolidata in Software Engineering:**
 Pasamenti S.R.L. vanta un'esperienza decennale nello sviluppo di soluzioni enterprise e custom riducendo significativamente
 i rischi tecnici del progetto.
 
