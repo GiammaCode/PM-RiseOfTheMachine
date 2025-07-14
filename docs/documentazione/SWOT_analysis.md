@@ -47,9 +47,14 @@ sviluppo IA, ottimizzazione performance e testing multipiattaforma.
 Il successo del progetto può aprire nuove opportunità di collaborazione con studi cinematografici, publisher di giochi
 e piattaforme di streaming, diversificando significativamente il portfolio aziendale.
 
+
 **Sinergie cross-mediali innovative:**
 L'integrazione film-videogioco può diventare un case study di successo per future collaborazioni cross-industry, 
 aprendo mercati in education, simulazioni professionali e digital entertainment.
+
+**Apprendimento di nuove tecnologie gaming e IA**  
+Il progetto ci permetterà di esplorare e padroneggiare tecnologie all’avanguardia nel mondo del gaming e dell’intelligenza artificiale,
+rafforzando le nostre competenze interne.
 
 **Community building e brand awareness:**
 Un gioco di qualità può generare una community fedele, engagement sui social media e word-of-mouth positivo, riducendo

@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Analisi/gestione rischi
@@ -123,4 +122,3 @@ nav_order: 11
 
 **R008 - Conflitti Decisionali Interni** (20%)  
 **Strategia**: Governance chiara  
-```
