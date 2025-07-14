@@ -1,3 +1,9 @@
+---
+layout: default
+title: Closing
+nav_order: 6
+---
+
 # Closing Process group
 
 ## Ottenere l’accettazione del committente 

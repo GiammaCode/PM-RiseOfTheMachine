@@ -1,4 +1,10 @@
-# ANALISI DEI RISCHI
+---
+layout: default
+title: Analisi/gestione rischi
+nav_order: 11
+---
+
+#ANALISI DEI RISCHI
 
 ## IDENTIFICAZIONE DEI RISCHI
 

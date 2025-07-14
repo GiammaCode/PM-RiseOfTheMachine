@@ -1,3 +1,9 @@
+---
+layout: default
+title: Planning
+nav_order: 3
+---
+
 # Planning
 
 La fase di planning rappresenta il cuore strategico del progetto, dove tutte le decisioni prese durante lo scoping 
@@ -15,7 +21,7 @@ processo di pianificazione e garantire il coinvolgimento appropriato di tutti gl
 
 **Partecipanti:**
 - Project Manager (Pasamenti S.R.L.) e facilitatore
-- Product Owner (Direttore Pasamenti S.R.L.)
+- Product Owner 
 - Core Team tecnico(Rappresentante team tecnico, Sviluppatore Soft e UI Developer)
 - Rappresentanti casa cinematografica
 - Tecnografo

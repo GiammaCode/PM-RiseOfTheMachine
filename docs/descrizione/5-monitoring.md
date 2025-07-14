@@ -1,3 +1,9 @@
+---
+layout: default
+title: Monitoring
+nav_order: 5
+---
+
 # Monitor & Controlling Process
 
 L'obiettivo del sistema di monitoraggio e controllo è fornire informazioni dettagliate e tempestive sullo stato di 

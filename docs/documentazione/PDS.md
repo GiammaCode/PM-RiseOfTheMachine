@@ -1,3 +1,9 @@
+---
+layout: default
+title: PDS
+nav_order: 13
+---
+
 # **Project Definition Statement (PDS)**
 
 ## **Problem/Opportunity Statement**

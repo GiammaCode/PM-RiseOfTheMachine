@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rapporto finale
+nav_order: 16
+---
+
 # RAPPORTO FINALE DI PROGETTO
 
 ## EXECUTIVE SUMMARY

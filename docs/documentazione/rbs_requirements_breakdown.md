@@ -1,3 +1,9 @@
+---
+layout: default
+title: RBS
+nav_order: 8
+---
+
 # RBS - Requirements Breakdown Structure
 
 ![RBS](../img/ReqBS.png)

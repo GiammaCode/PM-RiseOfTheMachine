@@ -1,3 +1,9 @@
+---
+layout: default
+title: Project Network Diagram
+nav_order: 15
+---
+
 # Project Network Diagram
 
 ```mermaid

@@ -1,3 +1,9 @@
+---
+layout: default
+title: SWOT analysis
+nav_order: 9
+---
+
 # SWOT ANALYSIS
 
 ## Strengths (punti di forza interni)
