@@ -1,6 +1,6 @@
 ---
 layout: default
-title: contesto
+title: Contesto
 nav_order: 1
 ---
 
