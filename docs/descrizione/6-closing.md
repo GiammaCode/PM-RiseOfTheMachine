@@ -6,8 +6,8 @@ nav_order: 6
 
 # Closing Process group
 
-![flusso progetto](./img/Flusso_progetto.png)
-**[🔍 Visualizza a dimensione completa](./img/Flusso_progetto.png)**
+![flusso progetto](../img/Flusso_progetto.png)
+**[🔍 Visualizza a dimensione completa](../img/Flusso_progetto.png)**
 
 ## Ottenere l’accettazione del committente 
 
