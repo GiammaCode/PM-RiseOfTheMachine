@@ -35,6 +35,7 @@ stabilendo una partnership strategica con l'industria cinematografica e aprendo 
 - **Compatibilità:** Rilascio simultaneo PC e mobile completato
 
 ### Successo di Business
+
 | Criterio            | Target   | Risultato  | Status     |
 |---------------------|----------|------------|------------|
 | Download primo mese | 50.000   | 75.000     | +50%       |
