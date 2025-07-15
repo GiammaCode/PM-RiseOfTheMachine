@@ -16,7 +16,7 @@ I deliverables prodotti saranno inclusi in allegato.
 Nel primo meeting, i soggetti coinvolti nel progetto si sono presentati a turno, illustrando brevemente il 
 proprio ruolo e le competenze specifiche.
 
-Terminate le presentazioni, il CEO di Pasamenti S.R.L. ha illustrato il profilo aziendale, evidenziando la crescita 
+Terminate le presentazioni, il Product owner di Pasamenti S.R.L. ha illustrato il profilo aziendale, evidenziando la crescita 
 raggiunta negli anni e i risultati ottenuti nei settori enterprise e custom, attraverso una presentazione strutturata. 
 Ha poi preso la parola il rappresentante del cliente che ha ringraziato per la decisione di prendere in carico il loro 
 progetto e ha fatto visionare il trailer del film.
@@ -29,11 +29,11 @@ Il facilitatore ha quindi guidato una sessione collaborativa per definire le Con
 producendo un documento condiviso che stabilisce i criteri di successo del progetto.
 
 **Partecipanti:**
-- Project Manager (Pasamenti S.R.L.)
 - Product Owner 
-- Facilitatore 
-- Membri del team tecnico interno 
-- Rappresentanti del cliente (casa cinematografica)
+- Cliente/Stakeholder chiave 
+- Scrum Master (facilitatore)
+- Architetto (Membro tecnico) 
+- Senior Management 
 
 **Deliverable:** Conditions of Satisfaction (CoS)
 
@@ -56,14 +56,14 @@ sviluppo parallelo dei diversi sistemi (motore IA, interfaccia utente, gestione 
 Per scegliere la metodologia di sviluppo c'è stata una discussione molto accesa ai vertici della Pasamenti S.R.L,
 tra il team Leader del progetto e il CEO dell'azienda.
 
-**CEO dell'azienda Iterativo:** "Ritengo che dobbiamo utilizzare un approccio ITERATIVO per questo progetto. Abbiamo 
+**Membro team #1:** "Ritengo che dobbiamo utilizzare un approccio ITERATIVO per questo progetto. Abbiamo 
 un goal chiaro - sviluppare un videogioco strategico per accompagnare l'uscita del film - ma la soluzione tecnica 
 presenta ancora delle incognite, specialmente per quanto riguarda il motore IA. L'approccio iterativo ci permetterà 
 di raffinare la soluzione attraverso cicli controllati, mantenendo fisso lo scope ma esplorando diverse implementazioni 
 tecniche. Possiamo sviluppare il gioco in sprint successivi, migliorando e affinando le funzionalità ad ogni iterazione 
 basandosi sul feedback.""
 
-**Team Leader del progetto Adattivo:** "Essendo un progetto nuovo e con l'utilizzo di tecnologie IA innovative che non
+**Membro team #2:** "Essendo un progetto nuovo e con l'utilizzo di tecnologie IA innovative che non
 abbiamo mai implementato prima, per stare sul sicuro dovremmo adottare un approccio ADATTIVO. 
 La complessità del motore di intelligenza artificiale presenta troppe incognite tecniche: non sappiamo ancora come 
 bilanciare correttamente i comportamenti dell'IA, quali algoritmi saranno più efficaci, o come ottimizzare le 
@@ -75,11 +75,13 @@ di ogni Sprint."
 È stato stabilito che il progetto seguirà un Project Management Life Cycle (PMLC) adattivo, data la natura 
 parzialmente definita sia degli obiettivi specifici che delle soluzioni tecniche da implementare.
 
+In conclusione verrà utilizzato un approcio agile adattivo grazie al framework Scrum.
+
 **Partecipanti:**
-- Project Manager (Pasamenti S.R.L.) 
-- Product Owner 
-- Facilitatore 
+- Scrum Muster
+- Product Owner
 - Team tecnico interno 
+- Cliente
 
 **Deliverable:** Requirements Breakdown Structure (RBS)
 
@@ -97,9 +99,9 @@ opportunità e minacce del progetto
 decisioni prese durante il processo di scoping
 
 **Partecipanti:**
-- Project Manager (Pasamenti S.R.L.) 
-- Team tecnico interno 
-- Facilitatore 
-- End users e stakeholder finali (rappresentanti casa cinematografica)
+- Scrum Muster
+- Product Owner
+- Team tecnico interno
+- Cliente
 
 **Deliverables:** CoS validate, RBS consolidata, Project Overview Statement (POS), Analisi SWOT
