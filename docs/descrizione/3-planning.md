@@ -20,10 +20,10 @@ processo di pianificazione e garantire il coinvolgimento appropriato di tutti gl
 ### Prima Sessione - Kick-off e Working Session
 
 **Partecipanti:**
-- Project Manager (Pasamenti S.R.L.) e facilitatore
-- Product Owner 
-- Core Team tecnico(Rappresentante team tecnico, Sviluppatore Soft e UI Developer)
-- Rappresentanti casa cinematografica
+- Scrum Muster
+- Product Owner
+- Team tecnico interno (Rappresentante team tecnico, Sviluppatore Soft e UI Developer)
+- Cliente
 - Tecnografo
 
 **Fase 1: Kick-off**
@@ -56,7 +56,8 @@ multipiattaforma
 
 **Partecipanti:**
 - Core Team tecnico
-- Project Manager
+- Scrum Muster
+- Product Owner
 - Resource Manager
 - QA Tester
 
