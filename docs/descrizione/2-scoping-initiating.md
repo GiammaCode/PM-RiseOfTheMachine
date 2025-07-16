@@ -53,8 +53,8 @@ dei componenti durante lo sviluppo
 Il facilitatore, dopo consultazione con esperti tecnici interni, ha proposto un approccio modulare che consenta 
 sviluppo parallelo dei diversi sistemi (motore IA, interfaccia utente, gestione delle partite).
 
-Per scegliere la metodologia di sviluppo c'è stata una discussione molto accesa ai vertici della Pasamenti S.R.L,
-tra il team Leader del progetto e il CEO dell'azienda.
+Per scegliere la metodologia di sviluppo c'è stata un' accesa discussione tra due membri del team per scegliere il 
+PMLC(Project management life cicle)
 
 **Membro team #1:** "Ritengo che dobbiamo utilizzare un approccio ITERATIVO per questo progetto. Abbiamo 
 un goal chiaro - sviluppare un videogioco strategico per accompagnare l'uscita del film - ma la soluzione tecnica 
