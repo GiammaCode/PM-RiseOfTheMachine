@@ -54,3 +54,15 @@ macro-fase di sviluppo. Questi incontri si focalizzano sull'analisi del progress
 di problemi di alto livello, seguendo prevalentemente un approccio project manager-based che riflette i vincoli di 
 budget e la necessità di ottimizzare l'utilizzo delle risorse limitate disponibili, rendendo l'escalation verso 
 risorse aggiuntive un'opzione da considerare solo in situazioni critiche.
+
+## Problem Management Meeting
+
+Dopo il rilascio del prototipo al termine del secondo sprint,
+è emerso con chiarezza grazie a un lavoro di monitoring costate e scrupoloso che non tutte le feature inizialmente richieste sarebbero potuto essere
+implementate entro la data concordata. Per evitare slittamenti di consegna(requisito fondamentale), abbiamo quindi
+convocato un Problem Management Meeting con il cliente, durante il quale abbiamo rivisto
+insieme il documento MoSCoW e deciso di mantenere invariata la deadline,
+rinunciando però alle funzionalità classificate come “Could Have”.
+In particolare, è stato concordato di non considerare fondamentali la possibilità di sbloccare
+collezionabili legati al film, le animazioni avanzate e la modalità multiplayer, 
+così da garantire al contempo la qualità del prototipo e il rispetto dei tempi di consegna stabiliti.
