@@ -31,7 +31,7 @@ processo di pianificazione e garantire il coinvolgimento appropriato di tutti gl
 **Obiettivo:** Allineamento di tutti gli stakeholder sul progetto e definizione del framework operativo
 
 **Attività svolte:**
-- Presentazione del team esteso: Introduzione dei nuovi membri del team di sviluppo che si uniscono al progetto
+- Presentazione del core team: Introduzione dei membri del team di sviluppo che si uniscono al progetto
 - Revisione del POS: Conferma degli obiettivi e dei success criteria definiti in fase di scoping
 - Presentazione della timeline critica: Illustrazione della roadmap di 4 mesi con particolare enfasi sui milestone 
 sincronizzati con l'uscita del trailer del film
@@ -69,7 +69,8 @@ multipiattaforma
 - Costruzione Project Network Diagram: Creazione del diagramma delle dipendenze utilizzando il metodo Task-on-Node
 - Identificazione Critical Path: Determinazione delle attività critiche che impattano sulla deadline del progetto
 - Resource leveling: Ottimizzazione dell'allocazione delle risorse per evitare over-allocation
-- Definizione milestone e deliverable: Stabilimento dei checkpoint principali allineati con le esigenze del cliente
+- Definizione milestone e deliverable: Stabilimento dei checkpoint principali allineati con le esigenze del
+cliente (GANTT)
 
 ## Approccio PMLC e Metodologia
 
@@ -87,9 +88,9 @@ Basandosi sull'analisi condotta durante lo scoping, il progetto adotta un approc
 - **Sprint 3 (Settimane 5-6):** Sviluppo interfaccia, Logica di gioco, Implementazione Motore AI
 - **Sprint 4 (Settimane 7-8):** Integrazione componenti di base per il primo prototipo
 - **Sprint 5 (Settimane 9-10):** Sviluppo interfaccia, Logica di gioco, Implementazione Motore AI
-- **Sprint 6(Settimane 11-12):** Bilanciamento gameplay, testing multipiattaforma
-- **Sprint 7(Settimane 13-14):** Integrazione Asset e Ottimizzazione
-- **Sprint 8(Settimane 15):** Testing finale e preparazione rilascio
+- **Sprint 6 (Settimane 11-12):** Bilanciamento gameplay, testing multipiattaforma
+- **Sprint 7 (Settimane 13-14):** Integrazione Asset e Ottimizzazione
+- **Sprint 8 (Settimane 15):** Testing finale e preparazione rilascio
 
 **Rilasci pianificati:**
 - **Settimana 4:** Mostriamo il prtotipo AI e una bozza di UI con le scene scelte del film
@@ -122,7 +123,7 @@ Dopo un'attenta analisi dei rischi e delle incertezze del progetto, si è optato
 
 ### Cash Flow Management
 
-**Analisi finanziaria:** https://docs.google.com/document/d/1I9tFamCs2tqYoaUIYwulD2S-fA_GD5Tl6s-oBSTdyb8/edit?tab=t.4f0lnqw6dcb1
+[Analisi e gestione finanziaria](documentazione/Analisi_finanziaria.md)
 
 ## Deliverable della Fase di Planning
 
@@ -130,7 +131,9 @@ I seguenti documenti sono stati prodotti e sono disponibili in allegato:
 
 - **Project Definition Statement (PDS):** Versione estesa del POS con dettagli tecnici
 - **Work Breakdown Structure (WBS):** Decomposizione completa delle attività
+- **Stima tempistiche:** Stima tedel tempo necessarie per ogni attività
 - **Project Network Diagram:** Diagramma delle dipendenze e critical path
+- **GANTT**: calendario attività e tempistiche 
 - **Risk Management Plan:** Strategie di mitigazione dei rischi identificati
 - **Analisi finanziaria:** costi, entrate, budget e cash flow
 
