@@ -132,7 +132,7 @@ I seguenti documenti sono stati prodotti e sono disponibili in allegato:
 - **Work Breakdown Structure (WBS):** Decomposizione completa delle attività
 - **Project Network Diagram:** Diagramma delle dipendenze e critical path
 - **Risk Management Plan:** Strategie di mitigazione dei rischi identificati
-- **Analisi finanziaria:** costi, entrate, budget e cash flow
+- **Gestione finanziaria:** costi, entrate, budget e cash flow
 
 La fase di planning si conclude con l'approvazione formale del piano da parte di tutti gli stakeholder e 
 l'autorizzazione a procedere con la fase di execution.
