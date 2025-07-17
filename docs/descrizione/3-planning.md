@@ -65,7 +65,6 @@ multipiattaforma
 
 **Attività svolte:**
 - Raffinamento WBS: Completamento della Work Breakdown Structure con decomposizione fino al livello di task
-- Stima dettagliata tempi e risorse: Utilizzo di dati storici e expert judgment per stimare accuratamente le durate
 - Costruzione Project Network Diagram: Creazione del diagramma delle dipendenze utilizzando il metodo Task-on-Node
 - Identificazione Critical Path: Determinazione delle attività critiche che impattano sulla deadline del progetto
 - Resource leveling: Ottimizzazione dell'allocazione delle risorse per evitare over-allocation
@@ -112,7 +111,7 @@ Dopo un'attenta analisi dei rischi e delle incertezze del progetto, si è optato
 
 **Componente Time & Materials (40% del valore):**
 - Bilanciamento e tuning IA
-- Personalizzazioni richieste dal cliente
+- Personalizzazioni richieste dal clientef
 - Integrazione elementi cinematografici
 - Testing e debugging finale
 
