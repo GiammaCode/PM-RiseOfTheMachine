@@ -92,7 +92,7 @@ stand-up, consegna asset del film e primo sprint planning.
 
 ### PARTECIPANTI
 - Project Manager Pasamenti S.R.L.
-- Core Team tecnico (6 persone)
+- Team tecnico (6 persone)
 - Co-Project Manager Cliente
 - Direttore Pasamenti S.R.L. (Product Owner)
 - Resource Manager
