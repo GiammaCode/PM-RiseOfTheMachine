@@ -70,6 +70,7 @@ multipiattaforma
 - Resource leveling: Ottimizzazione dell'allocazione delle risorse per evitare over-allocation
 - Definizione milestone e deliverable: Stabilimento dei checkpoint principali allineati con le esigenze del
 cliente (GANTT)
+- Raffinamento dell'analisi dei rischi, aggiunta della parte di gestione
 
 ## Approccio PMLC e Metodologia
 
